@@ -92,6 +92,7 @@ Here we collect repositories that demonstrate works on AI in quantum technology.
 
 #### Discovering Quantum Protocols and Discrete Feedback Strategies
 - [**Machine Learning for Long-Distance Quantum Communication**](https://github.com/qic-ibk/ps_quantum_comm) by Wallnöfer, Melnikov, Dür, Briegel ([paper](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.1.010301))
+- [**Quantum imaginary time evolution steered by reinforcement learning**](https://github.com/Plmono/RL-qite) by Cao, An, Hou, Zhou, Zeng ([paper](https://www.nature.com/articles/s42005-022-00837-y))
 
 #### Quantum Circuits
 - [**Quantum computer-aided design of quantum optics hardware**](https://github.com/kottmanj/Photonic) by Kottmann, Krenn, Kyaw, Alperin-Lea, Aspuru-Guzik ([paper](https://iopscience.iop.org/article/10.1088/2058-9565/abfc94/meta))  
